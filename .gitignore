@@ -1,0 +1,11 @@
+storage
+logs
+__pycache__
+.idea
+venv
+*.pyc
+.vscode
+build
+dist
+.DS_Store
+.spyproject
